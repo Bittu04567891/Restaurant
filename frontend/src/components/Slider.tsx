@@ -41,7 +41,7 @@ useEffect(()=>{
     </div>
     {/* Image Container */}
     <div className='w-full flex-1 relative lg:h-full lg:w-1/2'> 
-   <Image src={data[currentSlide].image} alt=" " fill className='object-cover'/>
+   <Image src={data[currentSlide].image} alt=" "  className='object-cover' fill/>
     </div>
     </div>
   )
