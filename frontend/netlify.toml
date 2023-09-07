@@ -1,0 +1,4 @@
+[[redirects]]
+from="/*"
+to="/layout.tsx"
+status=200
